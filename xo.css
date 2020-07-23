@@ -1,0 +1,11 @@
+.table1 {
+    border-collapse: collapse;
+    width: 60%;
+    height:60%;
+    border: solid 1px blueviolet;
+}
+td {
+    border: solid 1px blueviolet;
+      width:20%;
+    height:20%;
+}
